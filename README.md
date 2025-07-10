@@ -7,7 +7,7 @@ This repository contains multiple data analysis projects, each packed in a `.zip
 ## 🗂️ Projects List
 
 ### 1. 📦 Airbnb Listing Analyzer
-- 🔽 [Download ZIP](https://github.com/yourusername/data-analysis-projects/raw/main/Project_1_Customer_Segmentation.zip)
+- 🔽 [Download ZIP](https://github.com/SrajalTurkar09/Data-Analysis-Projects/blob/fdaf2f1867e20465d76a75c19bbde0bbd801b467/Airbnb%20Listings%20Analyzer.zip)
 - 🌐 [View Web Page](https://yourusername.github.io/data-analysis-projects/customer_segmentation)
 
 ---
